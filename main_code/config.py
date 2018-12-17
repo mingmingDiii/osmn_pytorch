@@ -4,7 +4,7 @@ class DAVIS_CONFIG(object):
 
     data_path = '/mnt/sda1/don/documents/project_paper/video_seg/data/DAVIS-2017-trainval-480p'
     #Path to save predicted results
-    result_path = '/mnt/sda1/don/documents/video_seg/code_ref/video_seg/results'
+    result_path = '/mnt/sda1/don/documents/public/osmn_pytorch/main_code/results'#'/mnt/sda1/don/documents/project_paper/video_seg/code_ref/video_seg/results2'
 
 
 
